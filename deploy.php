@@ -7,7 +7,7 @@ require 'recipe/laravel.php';
 set('application', 'my_project');
 
 // Project repository
-set('repository', 'https://github.com/thedevdojo/laravel-cloudways-deployer.git');
+set('repository', 'git@github.com:thedevdojo/laravel-cloudways-deployer.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', true);
