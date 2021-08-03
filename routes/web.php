@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    echo 'Hey Ma 👋, I just got deployed from Deployer! RAD!';
+    echo 'Hey Ma 👋, I just got deployed from Deployer! RAD! Yo';
 });
